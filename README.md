@@ -1,1 +1,1 @@
-My portfolio: RandyRus.github.io
+[My portfolio](randyrus.github.io)
